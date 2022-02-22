@@ -1,1 +1,1 @@
-# React template for Promo O
+# React Project
